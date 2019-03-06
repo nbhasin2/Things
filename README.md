@@ -10,6 +10,7 @@ Simple bash / mobile / etc. related things that one uses and forgets.
 - https://stackoverflow.com/questions/29879314/how-to-create-custom-flip-animation-using-uiview
 - https://stackoverflow.com/questions/9656071/how-to-flip-a-uiview-around-the-x-axis-while-simultaneously-switching-subviews
 - https://stackoverflow.com/questions/6531332/how-to-rotate-an-uiimageview-with-catransform3drotate-make-an-effect-like-door-o
+- https://github.com/scotteg/LayerPlayer - This is the KEY. It only runs on the device for TransformLayer which is used for 3d swipe.
 
 ## ANDROID
 ### 1. Setting up adb path
